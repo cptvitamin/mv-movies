@@ -3,20 +3,24 @@
 		{
 			"title": "The Holdovers",
 			"rating": 5,
-			"notes": "Nostalgic movie, especially for anyone that grew up in the 70's and/or went to boarding school. Themes include the divide between people who are privileged and not, and those who are ostracized or revered. Lots of character growth. Great story, great acting. Also touches upon mental illness and grieving the loss of a loved one."
+			"notes": "Nostalgic movie, especially for anyone that grew up in the 70's and/or went to boarding school. Themes include the divide between people who are privileged and not, and those who are ostracized or revered. Lots of character growth. Great story, great acting. Also touches upon mental illness and grieving the loss of a loved one.",
+			"watchdate": "2024-12-30"
 		},
 		{
 			"title": "Red One",
 			"rating": 2,
-			"notes": "Holiday movie with Luci Liu, The Rock and Chris Evans. Terrible plot, terrible writing. Don't waste your time unless you are looking for a light-hearted fantasy, holiday, action movie."
+			"notes": "Holiday movie with Luci Liu, The Rock and Chris Evans. Terrible plot, terrible writing. Don't waste your time unless you are looking for a light-hearted fantasy, holiday, action movie.",
+			"watchdate": "2024-12-30"
 		},
 		{
 			"rating": 5,
 			"title": "Yacht Rock: A Dockumentary",
-			"notes": "For anyone who grew up in the 70's and 80's an listened to pop music."
+			"notes": "For anyone who grew up in the 70's and 80's an listened to pop music.",
+			"watchdate": "2025-01-01"
 		},
 		{
-			"rating": 3
+			"rating": 3,
+			"watchdate": "2025-01-01"
 		}
 	]
 }
