@@ -23,6 +23,18 @@
 			"watchdate": "2025-01-01",
 			"title": "Juror #2",
 			"notes": "Watchable, but not a great movie, by any means."
+		},
+		{
+			"title": "Subservience ",
+			"watchdate": "2025-01-02",
+			"rating": 2,
+			"notes": "Megan Fox, otherwise, terrible movie. "
+		},
+		{
+			"title": "Good on Paper",
+			"watchdate": "2025-01-02",
+			"rating": 3,
+			"notes": "Watchable, but barely "
 		}
 	]
 }
