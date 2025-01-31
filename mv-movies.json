@@ -35,6 +35,12 @@
 			"watchdate": "2025-01-02",
 			"rating": 3,
 			"notes": "Watchable, but barely "
+		},
+		{
+			"title": "Poor Things",
+			"watchdate": "2025-01-31",
+			"rating": 5,
+			"notes": "As simple and elegant an answer to the \"What is the ultimate meaning of life, the universe, and Everything\" as 42."
 		}
 	]
 }
